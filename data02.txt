@@ -2,3 +2,6 @@ On modifie
 2 premieres lignes
 TEXT MODIFIE
 2
+
+Exercice 10 : 
+Modifié le fichier
