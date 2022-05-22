@@ -6,7 +6,3 @@ Modifié 2
 
 Exercice 4 : 
 Modifié
-
-Exercice 5 :
-Modifié
-Modifié pour revert
